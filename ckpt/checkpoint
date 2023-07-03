@@ -1,0 +1,6 @@
+model_checkpoint_path: "tiny-yolo-voc-2-83600"
+all_model_checkpoint_paths: "tiny-yolo-voc-2-83500"
+all_model_checkpoint_paths: "tiny-yolo-voc-2-83525"
+all_model_checkpoint_paths: "tiny-yolo-voc-2-83550"
+all_model_checkpoint_paths: "tiny-yolo-voc-2-83575"
+all_model_checkpoint_paths: "tiny-yolo-voc-2-83600"
