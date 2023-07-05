@@ -19,4 +19,3 @@ def get_output_fps_height_and_width(cap):
 
 
     return fps, height, width
-
