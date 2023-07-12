@@ -129,7 +129,7 @@ class ObjectCountingAPI:
         cv2.destroyAllWindows()
 
     def count_objects_crossing_the_virtual_line(self, cap, line_begin, line_end, targeted_classes=[],
-                                                output_path="the_output.avi", show=False):
+                                                output_path="the_output.avi", show=False):  # main def to count drops crossing the line
 
         ret, frame = cap.read()
 
